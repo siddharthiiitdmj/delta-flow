@@ -1,0 +1,1370 @@
+#u2174-4 {
+    color: #e0e0e0;
+    font-family: ubuntu, sans-serif;
+    font-weight: 400;
+    background-color: transparent;
+    font-style: italic;
+    text-align: left;
+}
+#u2174-2 {
+    padding-top: 9px;
+}
+#u2176-2 {
+    padding-top: 8px;
+}
+#u2175-2 {
+    padding-top: 9px;
+}
+#u7000-2 {
+    padding-top: 9px;
+}
+#u2175-4, #u7000-4,
+#u2173-4 {
+    color: #e0e0e0;
+    font-family: ubuntu, sans-serif;
+    line-height: 20px;
+    font-weight: 400;
+    background-color: transparent;
+    text-align: left;
+}
+#u2173-2 {
+    padding-top: 9px;
+}
+#u2176-4,
+#u2177-4 {
+    color: #29abe2;
+    font-family: "__FontAwesome_5";
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    background-color: transparent;
+    text-align: left;
+}
+#u2177-2 {
+    padding-top: 8px;
+}
+#u2051 {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=95)";
+    box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.1);
+    -pie-box-shadow: none;
+    background-color: #ffffff;
+    filter: alpha(opacity=95);
+    opacity: 0.95;
+}
+#u2052-3 {
+    color: #29abe2;
+    font-family: ubuntu, sans-serif;
+    /* padding: 2px 0; */
+    font-size: 36px;
+    line-height: 43px;
+    font-weight: 700;
+    background: transparent url("https://www.dfpiping.com/images/Delta-Flow-Logo.png") no-repeat
+        left;
+}
+.MenuItem {
+    cursor: pointer;
+}
+#u5168 {
+    background-color: #141b22;
+}
+#u5205-3 {
+    color: #29abe2;
+    font-family: ubuntu, sans-serif;
+    font-size: 36px;
+    line-height: 43px;
+    font-weight: 700;
+    background: transparent url("../images/logo2.png?crc=3760046469") no-repeat
+        left center;
+}
+.effect {
+    border-color: #333333;
+    background-color: transparent;
+    border-width: 0px;
+}
+#u5169-4 {
+    color: #cccccc;
+    line-height: 20px;
+    font-family: ubuntu, sans-serif;
+    font-weight: 300;
+    text-align: left;
+}
+#u5199-2 {
+    padding-top: 8px;
+}
+#u5200-2 {
+    padding-top: 8px;
+}
+#u5201-2 {
+    padding-top: 8px;
+}
+#u5202-2 {
+    padding-top: 8px;
+}
+#u5203-2 {
+    padding-top: 8px;
+}
+#u5199-4,
+#u5200-4,
+#u5201-4,
+#u5202-4,
+#u5203-4,
+#u5204-4 {
+    background-image: url("../images/blank.gif?crc=4208392903");
+    color: #29abe2;
+    -webkit-transition-delay: 0.1s;
+    font-size: 18px;
+    -webkit-transition-duration: 0.1s;
+    font-family: "__FontAwesome_5";
+    transition-timing-function: ease;
+    text-align: left;
+    transition-delay: 0.1s;
+    font-weight: 400;
+    -webkit-transition-timing-function: ease;
+    line-height: 22px;
+    transition-duration: 0.1s;
+}
+#u5199-4:hover p,
+#u5200-4:hover p,
+#u5201-4:hover p,
+#u5202-4:hover p,
+#u5203-4:hover p,
+#u5204-4:hover p {
+    color: #ffffff;
+    visibility: inherit;
+}
+#u5204-2 {
+    padding-top: 8px;
+}
+#u5187 {
+    background: transparent url("../images/blog_1-u5187-fr.jpg?crc=438752418")
+        no-repeat center center;
+    background-size: cover;
+}
+#u5189 {
+    background: transparent url("../images/blog_2-u5189-fr.jpg?crc=3895293577")
+        no-repeat center center;
+    background-size: cover;
+}
+#u5194 {
+    background: transparent url("../images/blog_3-u5194-fr.jpg?crc=4032250212")
+        no-repeat center center;
+    background-size: cover;
+}
+#u5186-4,
+#u5191-4,
+#u5195-4 {
+    color: #29abe2;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 400;
+    font-family: ubuntu, sans-serif;
+    text-align: left;
+}
+#u5170-4,
+#u5171-4,
+#u5172-4,
+#u5173-4,
+#u5174-4 {
+    background-image: url("../images/blank.gif?crc=4208392903");
+    color: #cccccc;
+    -webkit-transition-delay: 0.1s;
+    font-size: 14px;
+    border-color: #333333;
+    font-family: ubuntu, sans-serif;
+    transition-timing-function: ease;
+    border-bottom-width: 1px;
+    text-align: left;
+    font-weight: 400;
+    transition-delay: 0.1s;
+    -webkit-transition-duration: 0.1s;
+    border-style: solid;
+    -webkit-transition-timing-function: ease;
+    line-height: 20px;
+    transition-duration: 0.1s;
+}
+#u5185-4:hover p,
+#u5186-4:hover p,
+#u5190-4:hover p,
+#u5191-4:hover p,
+#u5193-4:hover p,
+#u5195-4:hover p,
+#u5170-4:hover p,
+#u5171-4:hover p,
+#u5172-4:hover p,
+#u5173-4:hover p,
+#u5174-4:hover p {
+    color: #29abe2;
+    visibility: inherit;
+}
+#u5177-4,
+#u5175-4,
+#u5179-4 {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: ubuntu, sans-serif;
+    text-align: left;
+}
+#u5178,
+#u5176,
+#u5180 {
+    border-style: solid;
+    border-color: #29abe2;
+    border-top-width: 2px;
+}
+#u5196-4,
+#u5197-4,
+#u5198-4 {
+    color: #29abe2;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: "__FontAwesome_5";
+    text-align: left;
+}
+#u5185-4,
+#u5190-4,
+#u5193-4,
+#u5181-4,
+#u5182-4,
+#u5183-4 {
+    color: #cccccc;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: ubuntu, sans-serif;
+    text-align: left;
+}
+#u2050,
+#u5166 {
+    background-color: #19202e;
+}
+#u5167-7 {
+    color: #666666;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: ubuntu, sans-serif;
+    text-align: left;
+}
+#u5167-2 {
+    color: #29abe2;
+}
+#u5167,
+#u5167-4 {
+    color: #cccccc;
+}
+#u5184,
+#u5188,
+#u5192,
+#u10026 {
+    border-color: transparent;
+    background-color: transparent;
+    border-width: 0px;
+}
+@media (min-width: 1201px), print {
+    #u2071 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2073-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2097 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2098-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2076 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2078-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2146 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2149-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2125 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2128-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2120 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2122-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2174-4 {
+        line-height: 20px;
+    }
+    #u5168_align_to_page,
+    #u5166_align_to_page {
+        max-width: 1440px;
+    }
+    #menuu2053,
+    #menuu5206 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+    }
+    #u5217 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5219-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5217:hover #u5219-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5236 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5239-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5236:hover #u5239-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5245 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5248-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5245:hover #u5248-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5229 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5230-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5229:hover #u5230-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5210 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5211-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5210:hover #u5211-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u2054,
+    #u2096,
+    #u2075,
+    #u2145,
+    #u2124,
+    #u2117,
+    #u5214,
+    #u5235,
+    #u5242,
+    #u5228,
+    #u5207,
+    #u5221 {
+        background-color: transparent;
+    }
+    #u5224 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5225-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5224:hover #u5225-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u2071.MuseMenuActive #u2073-4 p,
+    #u2097.MuseMenuActive #u2098-4 p,
+    #u2076.MuseMenuActive #u2078-4 p,
+    #u2146.MuseMenuActive #u2149-4 p,
+    #u2125.MuseMenuActive #u2128-4 p,
+    #u2120.MuseMenuActive #u2122-4 p,
+    #u5217.MuseMenuActive #u5219-4 p,
+    #u5236.MuseMenuActive #u5239-4 p,
+    #u5245.MuseMenuActive #u5248-4 p,
+    #u5229.MuseMenuActive #u5230-4 p,
+    #u5210.MuseMenuActive #u5211-4 p,
+    #u5224.MuseMenuActive #u5225-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+}
+@media (min-width: 1001px) and (max-width: 1200px) {
+    #u2071 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2073-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2097 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2098-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2076 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2078-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2146 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2149-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2125 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2128-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2120 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u2122-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 700;
+    }
+    #u2174-4 {
+        line-height: 20px;
+    }
+    #u5168_align_to_page,
+    #u5166_align_to_page {
+        max-width: 1200px;
+    }
+    #menuu2053,
+    #menuu5206 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+    }
+    #u5217 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5219-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5217:hover #u5219-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5236 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5239-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5236:hover #u5239-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5245 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5248-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5245:hover #u5248-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5229 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5230-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5229:hover #u5230-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u5210 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5211-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5210:hover #u5211-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u2054,
+    #u2096,
+    #u2075,
+    #u2145,
+    #u2124,
+    #u2117,
+    #u5214,
+    #u5235,
+    #u5242,
+    #u5228,
+    #u5207,
+    #u5221 {
+        background-color: transparent;
+    }
+    #u5224 {
+        -webkit-transition-duration: 0.1s;
+        -webkit-transition-delay: 0.1s;
+        -webkit-transition-timing-function: ease;
+        transition-duration: 0.1s;
+        transition-delay: 0.1s;
+        transition-timing-function: ease;
+        background-image: url("../images/blank.gif?crc=4208392903");
+        background-color: transparent;
+    }
+    #u5225-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #666666;
+        line-height: 14px;
+        font-size: 12px;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u5224:hover #u5225-4 p {
+        color: #ffffff;
+        visibility: inherit;
+    }
+    #u2071.MuseMenuActive #u2073-4 p,
+    #u2097.MuseMenuActive #u2098-4 p,
+    #u2076.MuseMenuActive #u2078-4 p,
+    #u2146.MuseMenuActive #u2149-4 p,
+    #u2125.MuseMenuActive #u2128-4 p,
+    #u2120.MuseMenuActive #u2122-4 p,
+    #u5217.MuseMenuActive #u5219-4 p,
+    #u5236.MuseMenuActive #u5239-4 p,
+    #u5245.MuseMenuActive #u5248-4 p,
+    #u5229.MuseMenuActive #u5230-4 p,
+    #u5210.MuseMenuActive #u5211-4 p,
+    #u5224.MuseMenuActive #u5225-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+}
+@media (min-width: 761px) and (max-width: 1000px) {
+    #u2174-4 {
+        line-height: 20px;
+    }
+    #u74259 {
+        border-color: #dedede;
+        background-color: transparent;
+    }
+    #u74260 {
+        vertical-align: top;
+        background: transparent url("../images/u74260.png?crc=250700003")
+            no-repeat 0px 0px;
+    }
+    #u74259.PamphletThumbSelected #u74260 {
+        background: transparent url("../images/u74260-a.png?crc=265646100")
+            no-repeat 0px 0px;
+    }
+    #u74265 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: #191919;
+        background-color: rgba(0, 0, 0, 0.9);
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+        -pie-background: rgba(0, 0, 0, 0.9);
+    }
+    #u74266 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+    }
+    #menuu74267 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+    }
+    #u74317,
+    #u74318 {
+        background-color: transparent;
+    }
+    #u74321-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318:hover #u74321-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74303,
+    #u74304 {
+        background-color: transparent;
+    }
+    #u74307-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318.MuseMenuActive #u74321-4 p,
+    #u74304:hover #u74307-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74296,
+    #u74297 {
+        background-color: transparent;
+    }
+    #u74299-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74304.MuseMenuActive #u74307-4 p,
+    #u74297:hover #u74299-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74268,
+    #u74269 {
+        background-color: transparent;
+    }
+    #u74270-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74297.MuseMenuActive #u74299-4 p,
+    #u74269:hover #u74270-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74289,
+    #u74292 {
+        background-color: transparent;
+    }
+    #u74295-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74269.MuseMenuActive #u74270-4 p,
+    #u74292:hover #u74295-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74282,
+    #u74285 {
+        background-color: transparent;
+    }
+    #u74286-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74292.MuseMenuActive #u74295-4 p,
+    #u74285:hover #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74285.MuseMenuActive #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    .PamphletWidget .ThumbGroup .Thumb,
+    .PamphletNextButton,
+    .PamphletPrevButton,
+    .PamphletCloseButton {
+        cursor: pointer;
+    }
+    #u5168_align_to_page,
+    #u5166_align_to_page {
+        max-width: 1000px;
+    }
+}
+@media (min-width: 521px) and (max-width: 760px) {
+    #u2174-4 {
+        line-height: 20px;
+    }
+    #u74259 {
+        border-color: #dedede;
+        background-color: transparent;
+    }
+    #u74260 {
+        vertical-align: top;
+        background: transparent url("../images/u74260.png?crc=250700003")
+            no-repeat 0px 0px;
+    }
+    #u74259.PamphletThumbSelected #u74260 {
+        background: transparent url("../images/u74260-a.png?crc=265646100")
+            no-repeat 0px 0px;
+    }
+    #u74265 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: #191919;
+        background-color: rgba(0, 0, 0, 0.9);
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+        -pie-background: rgba(0, 0, 0, 0.9);
+    }
+    #u74266 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+    }
+    #menuu74267 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+    }
+    #u74317,
+    #u74318 {
+        background-color: transparent;
+    }
+    #u74321-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318:hover #u74321-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74303,
+    #u74304 {
+        background-color: transparent;
+    }
+    #u74307-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318.MuseMenuActive #u74321-4 p,
+    #u74304:hover #u74307-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74296,
+    #u74297 {
+        background-color: transparent;
+    }
+    #u74299-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74304.MuseMenuActive #u74307-4 p,
+    #u74297:hover #u74299-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74268,
+    #u74269 {
+        background-color: transparent;
+    }
+    #u74270-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74297.MuseMenuActive #u74299-4 p,
+    #u74269:hover #u74270-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74289,
+    #u74292 {
+        background-color: transparent;
+    }
+    #u74295-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74269.MuseMenuActive #u74270-4 p,
+    #u74292:hover #u74295-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74282,
+    #u74285 {
+        background-color: transparent;
+    }
+    #u74286-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74292.MuseMenuActive #u74295-4 p,
+    #u74285:hover #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74285.MuseMenuActive #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    .PamphletWidget .ThumbGroup .Thumb,
+    .PamphletNextButton,
+    .PamphletPrevButton,
+    .PamphletCloseButton {
+        cursor: pointer;
+    }
+    #u2050_align_to_page,
+    #u5168_align_to_page,
+    #u5166_align_to_page {
+        max-width: 760px;
+    }
+}
+@media (max-width: 520px) {
+    #u2174-4 {
+        line-height: 17px;
+        font-size: 12px;
+    }
+    #u74259 {
+        border-color: #dedede;
+        background-color: transparent;
+    }
+    #u74260 {
+        vertical-align: top;
+        background: transparent url("../images/u74260.png?crc=250700003")
+            no-repeat 0px 0px;
+    }
+    #u74259.PamphletThumbSelected #u74260 {
+        background: transparent url("../images/u74260-a.png?crc=265646100")
+            no-repeat 0px 0px;
+    }
+    #u74265 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: #191919;
+        background-color: rgba(0, 0, 0, 0.9);
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+        -pie-background: rgba(0, 0, 0, 0.9);
+    }
+    #u74266 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        opacity: 0.9;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        filter: alpha(opacity=90);
+    }
+    #menuu74267 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+    }
+    #u74317,
+    #u74318 {
+        background-color: transparent;
+    }
+    #u74321-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318:hover #u74321-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74303,
+    #u74304 {
+        background-color: transparent;
+    }
+    #u74307-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74318.MuseMenuActive #u74321-4 p,
+    #u74304:hover #u74307-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74296,
+    #u74297 {
+        background-color: transparent;
+    }
+    #u74299-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74304.MuseMenuActive #u74307-4 p,
+    #u74297:hover #u74299-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74268,
+    #u74269 {
+        background-color: transparent;
+    }
+    #u74270-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74297.MuseMenuActive #u74299-4 p,
+    #u74269:hover #u74270-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74289,
+    #u74292 {
+        background-color: transparent;
+    }
+    #u74295-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74269.MuseMenuActive #u74270-4 p,
+    #u74292:hover #u74295-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74282,
+    #u74285 {
+        background-color: transparent;
+    }
+    #u74286-4 {
+        border-width: 0px;
+        border-color: transparent;
+        background-color: transparent;
+        color: #ffffff;
+        text-align: center;
+        font-family: ubuntu, sans-serif;
+        font-weight: 400;
+    }
+    #u74292.MuseMenuActive #u74295-4 p,
+    #u74285:hover #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    #u74285.MuseMenuActive #u74286-4 p {
+        color: #29abe2;
+        visibility: inherit;
+    }
+    .PamphletWidget .ThumbGroup .Thumb,
+    .PamphletNextButton,
+    .PamphletPrevButton,
+    .PamphletCloseButton {
+        cursor: pointer;
+    }
+    #u5168_align_to_page,
+    #u5166_align_to_page {
+        max-width: 520px;
+    }
+}
